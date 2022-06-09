@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+<h1 align="center">Hi 👋, I'm Mayur Parmar</h1>
+<h3 align="center">A passionate iOS developer from India</h3>
 
-You can use the [editor on GitHub](https://github.com/Mayur2997/Mayur2997/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayur2997&label=Profile%20views&color=0e75b6&style=flat" alt="mayur2997" /> </p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayur2997" alt="mayur2997" /></a> </p>
 
-### Markdown
+<p align="left"> <a href="https://twitter.com/lifeofmrparmar" target="blank"><img src="https://img.shields.io/twitter/follow/lifeofmrparmar?logo=twitter&style=for-the-badge" alt="lifeofmrparmar" /></a> </p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 📫 How to reach me **mrparmar2997@gmail.com**
 
-```markdown
-Syntax highlighted code block
+- 📄 Know about my experiences [https://linkedin.com/in/mayurparmar29](https://linkedin.com/in/mayurparmar29)
 
-# Header 1
-## Header 2
-### Header 3
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/lifeofmrparmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lifeofmrparmar" height="30" width="40" /></a>
+<a href="https://instagram.com/lifeofmrparmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lifeofmrparmar" height="30" width="40" /></a>
+</p>
 
-- Bulleted
-- List
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
-1. Numbered
-2. List
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayur2997&show_icons=true&locale=en&layout=compact" alt="mayur2997" /></p>
 
-**Bold** and _Italic_ and `Code` text
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayur2997&show_icons=true&locale=en" alt="mayur2997" /></p>
 
-[Link](url) and ![Image](src)
-```
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayur2997&" alt="mayur2997" /></p>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mayur2997/Mayur2997/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
