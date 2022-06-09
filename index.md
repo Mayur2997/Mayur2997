@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mrparmar2997@gmail.com**
 
-- 📄 Know about my experiences [https://linkedin.com/in/mayurparmar29](https://linkedin.com/in/mayurparmar29)
+- 📄 Know about my experiences [https://linkedin.com/in/mayur2997](https://linkedin.com/in/mayur2997)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
